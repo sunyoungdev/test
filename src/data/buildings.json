@@ -1,0 +1,288 @@
+[
+  {
+    "id": "10",
+    "name": "21 London Street",
+    "type": "Office",
+    "description": "A marvel on London's Skyline. This modern, 10-Storey tower brings breathtaking views on London's Skyline with easy access to all of London's vibrant commercial districts.",
+    "status": "Pre-development",
+    "grossArea": 770000,
+    "location": "EC5/EC6 London",
+    "imageSrc": "21_london_street.jpg",
+    "floors": [
+      {
+        "label": "10th Floor",
+        "availableSpace": 65000,
+        "occupier": "",
+        "disabled": false
+      },
+      {
+        "label": "9th Floor",
+        "availableSpace": 45000,
+        "occupier": "1st Law Firm",
+        "disabled": false
+      },
+      {
+        "label": "8th Floor",
+        "availableSpace": 0,
+        "occupier": "Big Law Co Ltd",
+        "disabled": true
+      },
+      {
+        "label": "7th Floor",
+        "availableSpace": 0,
+        "occupier": "Morgan and Freeman",
+        "disabled": true
+      },
+      {
+        "label": "6th Floor",
+        "availableSpace": 30500,
+        "occupier": "Associated Law Firm Ltd",
+        "disabled": false
+      },
+      {
+        "label": "5th Floor",
+        "availableSpace": 65000,
+        "occupier": "",
+        "disabled": false
+      },
+      {
+        "label": "4th Floor",
+        "availableSpace": 65000,
+        "occupier": "",
+        "disabled": false
+      },
+      {
+        "label": "3rd Floor",
+        "availableSpace": 65000,
+        "occupier": "",
+        "disabled": false
+      },
+      {
+        "label": "2nd Floor",
+        "availableSpace": 65000,
+        "occupier": "",
+        "disabled": false
+      },
+      {
+        "label": "1st Floor",
+        "availableSpace": 65000,
+        "occupier": "",
+        "disabled": false
+      },
+      {
+        "label": "Ground Floor",
+        "availableSpace": 26800,
+        "occupier": "Coffeebucks, Big Bean Co, Noodle Nation, The Big Steak Stop, I Can't Believe it's Tofu",
+        "disabled": false
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "name": "10 Cornhall Street",
+    "type": "Residential",
+    "description": "Modern, style living in one of London's oldest districts. These eco-friendly living units allow pave the way for new generations to enjoy this historical district.",
+    "status": "In Use",
+    "grossArea": 25000,
+    "location": "C10 London",
+    "imageSrc": "10_cornhall_street.jpg",
+    "floors": [
+      {
+        "label": "Penthouse Apartment",
+        "availableSpace": 5000,
+        "occupier": "",
+        "disabled": false
+      },
+      {
+        "label": "Apartment 4a",
+        "availableSpace": 2500,
+        "occupier": "",
+        "disabled": false
+      },
+      {
+        "label": "Apartment 4b",
+        "availableSpace": 0,
+        "occupier": "Let",
+        "disabled": true
+      },
+      {
+        "label": "Apartment 3a",
+        "availableSpace": 1500,
+        "occupier": "",
+        "disabled": false
+      },
+      {
+        "label": "Apartment 3b",
+        "availableSpace": 3500,
+        "occupier": "",
+        "disabled": false
+      },
+      {
+        "label": "Apartment 2a",
+        "availableSpace": 1750,
+        "occupier": "",
+        "disabled": false
+      },
+      {
+        "label": "Apartment 2b",
+        "availableSpace": 0,
+        "occupier": "Let",
+        "disabled": true
+      },
+      {
+        "label": "Apartment 2c",
+        "availableSpace": 2500,
+        "occupier": "",
+        "disabled": false
+      },
+      {
+        "label": "Apartment 1a",
+        "availableSpace": 0,
+        "occupier": "Let",
+        "disabled": true
+      },
+      {
+        "label": "Apartment 1b",
+        "availableSpace": 0,
+        "occupier": "Let",
+        "disabled": true
+      },
+      {
+        "label": "Apartment 1c",
+        "availableSpace": 0,
+        "occupier": "Let",
+        "disabled": true
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "name": "52 Cannon Street",
+    "type": "Office",
+    "description": "This renovation of a classic building allows for residents to preserve London's heritage whilst offering state of the art facilities for the modern business.",
+    "status": "In Use",
+    "grossArea": 12500,
+    "location": "EC2 London",
+    "imageSrc": "52_cannon_street.jpg",
+    "floors": [
+      {
+        "label": "5th Floor",
+        "availableSpace": 2500,
+        "occupier": "",
+        "disabled": false
+      },
+      {
+        "label": "4th Floor",
+        "availableSpace": 0,
+        "occupier": "Topfind Talent Inc",
+        "disabled": true
+      },
+      {
+        "label": "3rd Floor",
+        "availableSpace": 2500,
+        "occupier": "",
+        "disabled": false
+      },
+      {
+        "label": "2nd Floor",
+        "availableSpace": 0,
+        "occupier": "BigBox Logistics Ltd",
+        "disabled": true
+      },
+      {
+        "label": "1st Floor",
+        "availableSpace": 0,
+        "occupier": "Kawasaki Freight Handling",
+        "disabled": true
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "name": "The Plaza",
+    "type": "Retail",
+    "description": "A premium retail destination for both shopping and dining.",
+    "status": "In Use",
+    "grossArea": 30000,
+    "location": "W3 London",
+    "imageSrc": "the_plaza.jpg",
+    "floors": [
+      {
+        "label": "Upper Gallery",
+        "availableSpace": 15000,
+        "occupier": "Pear Computers, Co2, Boat Clothing, Forever 25, Goldtraders"
+      },
+      {
+        "label": "Lower Gallery",
+        "availableSpace": 6000,
+        "occupier": "Footlong Sandwich co, Bucket o' Chicken, Burgershack, Noodle Nation, The Tako Truck, Deep Dish Pizza Co, McLearies Pub, The Whiskey Lounge, Cocktails and Craft Beers, Lobster and Grill, The Happy Escargot"
+      }
+    ]
+  },
+  {
+    "id": "08",
+    "name": "12 Gold Street",
+    "type": "Office",
+    "description": "This 8-storey building provides office space to one of London's primary financial districts and offers residents easy access to clients and partner firms.",
+    "status": "In Use",
+    "grossArea": 550000,
+    "location": "C2 London",
+    "imageSrc": "12_gold_street.jpg",
+    "floors": [
+      {
+        "label": "8th Floor",
+        "availableSpace": 0,
+        "occupier": "Smith and Lewison Captial",
+        "disabled": true
+      },
+      {
+        "label": "7th Floor",
+        "availableSpace": 0,
+        "occupier": "NEXT Financial Services",
+        "disabled": true
+      },
+      {
+        "label": "6th Floor",
+        "availableSpace": 65000,
+        "occupier": "",
+        "disabled": false
+      },
+      {
+        "label": "5th Floor",
+        "availableSpace": 65000,
+        "occupier": "",
+        "disabled": false
+      },
+      {
+        "label": "4th Floor",
+        "availableSpace": 65000,
+        "occupier": "",
+        "disabled": false
+      },
+      {
+        "label": "3rd Floor",
+        "availableSpace": 0,
+        "occupier": "Umbrella Insurance and Securities",
+        "disabled": true
+      },
+      {
+        "label": "2nd Floor",
+        "availableSpace": 0,
+        "occupier": "China Investment Group",
+        "disabled": true
+      },
+      {
+        "label": "1st Floor",
+        "availableSpace": 0,
+        "occupier": "Horizons Venture Captial",
+        "disabled": true
+      },
+      {
+        "label": "Reception and Plaza",
+        "availableSpace": 0,
+        "occupier": "Reception, Coffeebucks, The Natural Coffee Co, Johnson's Deli, Plates Tapas",
+        "disabled": true
+      }
+    ]
+  }
+]
