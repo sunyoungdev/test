@@ -135,6 +135,9 @@ img {
   color: #fff;
 }
 
+.building > img {
+  width: 100%;
+}
 .building__title {
   margin-top: 7rem;
   padding: 0 1rem;

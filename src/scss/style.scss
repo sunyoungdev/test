@@ -93,6 +93,9 @@ $color-white: #fff;
   }
 }
 .building {
+  & > img {
+    width: 100%;
+  }
   &__title {
     margin-top: 7rem;
     padding: 0 1rem;
