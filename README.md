@@ -1,6 +1,6 @@
-### - Microsite service offering page
+### - Offering microsite page
 
-You can see detail information of offering services by clicking detail button.
+Sunyoung Kim's DN&CO Junior Developer technical test result page
 
 ### - Tech stack
 
